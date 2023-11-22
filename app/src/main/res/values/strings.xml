@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="first_name">Kelly</string>
+    <string name="last_name">Sikkema</string>
+    <string name="location">Ohio, United States</string>
+    <string name="profession">UX Design Manager &amp; Photographer</string>
+    <string name="bio">"I've always been fascinated by the way people interact with technology," says John Smith, a UX Design Manager with over 10 years of experience. "I love the challenge of understanding user needs and designing solutions that are both intuitive and effective."</string>
+    <string name="follow">Follow</string>
+    <string name="connect">Connect</string>
+</resources>
